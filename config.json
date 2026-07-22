@@ -1,9 +1,9 @@
 {
-    "show_privacy_popup": true,
+    "show_privacy_popup": false,
 
-    "download_button_visible": true,
-    "download_button_url": "https://Satta.ind.in",
+    "download_button_visible": false,
+    "download_button_url": "",
 
-    "close_button_action": "both",
-    "close_button_url": "https://Satta.ind.in"
+    "close_button_action": "close",
+    "close_button_url": ""
 }
