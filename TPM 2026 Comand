@@ -1,3 +1,5 @@
+Popup Show, Download Show, Button → URL + Close
+
 {
     "show_privacy_popup": true,
 
@@ -7,3 +9,27 @@
     "close_button_action": "both",
     "close_button_url": "https://playonx.github.io/newupdates/"
 }
+
+------------------------------------------------------------------------------------------------------------
+
+Popup Hide, Download Hide, Close Button sirf Close
+
+{
+    "show_privacy_popup": false,
+
+    "download_button_visible": false,
+    "download_button_url": "",
+
+    "close_button_action": "close",
+    "close_button_url": ""
+}
+
+------------------------------------------------------------------------------------------------------------
+
+| Key                       | Values                                 |
+| ------------------------- | -------------------------------------- |
+| `show_privacy_popup`      | `true`, `false`                        |
+| `download_button_visible` | `true`, `false`                        |
+| `download_button_url`     | Any valid URL                          |
+| `close_button_action`     | `"close"`, `"url"`, `"both"`, `"none"` |
+| `close_button_url`        | Any valid URL                          |
