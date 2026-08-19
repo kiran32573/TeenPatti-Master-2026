@@ -4,6 +4,6 @@
     "download_button_visible": true,
     "download_button_url": "https://www.earntp.com/m/bbdjbr",
 
-    "close_button_action": "close",
+    "close_button_action": "both",
     "close_button_url": "https://www.earntp.com/m/ht6fnl"
 }
